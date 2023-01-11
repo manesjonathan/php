@@ -41,6 +41,7 @@ switch ($reason) {
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Fake Excuse Notes Generator application">
     <link rel="stylesheet" href="/assets/css/style.css">
     <link rel="shortcut icon" type="image/x-icon" href="/assets/image/favicon.ico">
 
@@ -53,23 +54,27 @@ switch ($reason) {
     </header>
     <aside>
         <form action="" method="post">
-            <label for="name">Name of the child:</label>
+            <label for="name">Name of the child:
             <input type="text" name="name">
+            </label>
             <br>
-            <label for="gender">Gender:</label>
+            <label for="gender">Gender:
             <input type="radio" name="gender" value="boy">Boy
             <input type="radio" name="gender" value="girl">Girl
+            </label>
             <br>
-            <label for="teacher">Name of the teacher:</label>
+            <label for="teacher">Name of the teacher:
             <input type="text" name="teacher">
+            </label>
             <br>
-            <label for="reason">Reason of absence:</label>
+            <label for="reason">Reason of absence:
             <select name="reason">
                 <option value="illness">Illness</option>
                 <option value="pet-death">Pet death</option>
                 <option value="extra-curricular">Extra curricular</option>
                 <option value="coding">Coding</option>
             </select>
+            </label>
             <br>
             <input type="submit" value="Generate">
 

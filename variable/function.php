@@ -81,3 +81,5 @@ function feedback($message, $css_class)
 echo feedback("Incorrect email address", "error");
 echo feedback("This is a warning", "warning");
 echo feedback("This is an info", "info");
+
+?>

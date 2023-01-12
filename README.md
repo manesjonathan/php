@@ -19,7 +19,7 @@
 
 ![Screen Shot](assets/image/capture.png)
 
-This repository contains exercises of php fundamentals done as part of my training at becode.
+This repository contains exercises of php fundamentals done as part of my training at BeCode. This has been made from 01/10/2023 to 01/16/2023.
 
 ## Built With
 

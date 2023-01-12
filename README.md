@@ -19,7 +19,7 @@
 
 ![Screen Shot](assets/image/capture.png)
 
-This repository contains exercises of php fundamentals done as part of my training at becode.
+This repository contains exercises of php fundamentals done as part of my training at BeCode. This has been made from 01/10/2023 to 01/16/2023.
 
 ## Built With
 
@@ -27,7 +27,6 @@ PHP 8.2.
 
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites

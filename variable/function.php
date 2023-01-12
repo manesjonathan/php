@@ -18,10 +18,10 @@ function shuffle_string($string)
         }
     }
 
-    print_r(join(' ', $returned_array));
+    return join(' ', $returned_array);
 }
 
-//shuffle_string($message);
+echo shuffle_string($message);
 
 
 function capitalize_word($word)
@@ -118,5 +118,3 @@ function calculate_cone_volume($ray, $height)
 
 echo calculate_cone_volume(5, 2);
 echo calculate_cone_volume(3, 4);
-
-?>

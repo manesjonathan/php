@@ -118,3 +118,5 @@ function calculate_cone_volume($ray, $height)
 
 echo calculate_cone_volume(5, 2);
 echo calculate_cone_volume(3, 4);
+
+?>
